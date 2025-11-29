@@ -49,12 +49,15 @@ and the bot generates a reply in that tone.
 ## 🧱 Architectural Flow
 
 User selects mood
+
 ↓
 
 Prompt Template injects mood variable
+
 ↓
 
 LLM generates mood-based response
+
 ↓
 
 User receives emotionally aligned output
