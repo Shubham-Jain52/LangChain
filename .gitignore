@@ -1,0 +1,11 @@
+#secrets
+.env
+#environment files
+my_venv/
+
+#test python files
+chatmodels.py
+Embedding_query.py
+Embedding_docs.py
+document_similarity_screenshot.txt
+

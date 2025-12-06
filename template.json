@@ -1,0 +1,17 @@
+{
+    "name": null,
+    "input_variables": [
+        "details_type",
+        "paper_type",
+        "user_query"
+    ],
+    "optional_variables": [],
+    "output_parser": null,
+    "partial_variables": {},
+    "metadata": null,
+    "tags": null,
+    "template": "Provide a {details_type} on {user_query} in the form of a {paper_type}.",
+    "template_format": "f-string",
+    "validate_template": false,
+    "_type": "prompt"
+}
